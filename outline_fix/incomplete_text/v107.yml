@@ -1,0 +1,36 @@
+O1PD1123714CZ89925:
+  title: དེབ་བརྒྱ་དང་བདུན་པ། ༼དཀར་ཆག ༣༽
+  type: volume
+  img_loc_start: ''
+  img_loc_end: ''
+  pg_start: ''
+  pg_end: ''
+  vol: '107'
+  parts:
+    O1PD1123714CZ89926:
+      title: དེབ་བརྒྱ་དང་བདུན་པའི་དཀར་ཆག
+      type: chapter
+      img_loc_start: '13'
+      img_loc_end: '15'
+      pg_start: '1'
+      pg_end: '3'
+      vol: '107'
+      parts: {}
+    O1PD1123714CZ89927:
+      title: ཞོལ་བཀའ་འགྱུར་དཀར་ཆག
+      type: section
+      img_loc_start: '17'
+      img_loc_end: '852'
+      pg_start: ''
+      pg_end: ''
+      vol: '107'
+      parts:
+        O1PD1123714CZ89928:
+          title: ཞོལ་བཀའ་འགྱུར་དཀར་ཆག་རྒྱས་པ།
+          type: text
+          img_loc_start: '27'
+          img_loc_end: '847'
+          pg_start: '3'
+          pg_end: '823'
+          vol: '107'
+          parts: {}

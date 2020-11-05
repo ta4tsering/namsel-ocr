@@ -1,0 +1,126 @@
+O1PD1123714CZ89911:
+  title: དེབ་བརྒྱ་དང་དྲུག་པ། ༼དཀར་ཆག ༢༽
+  type: volume
+  img_loc_start: ''
+  img_loc_end: ''
+  pg_start: ''
+  pg_end: ''
+  vol: '106'
+  parts:
+    O1PD1123714CZ89912:
+      title: དེབ་བརྒྱ་དང་དྲུག་པའི་དཀར་ཆག
+      type: chapter
+      img_loc_start: '11'
+      img_loc_end: '14'
+      pg_start: '1'
+      pg_end: '4'
+      vol: '106'
+      parts: {}
+    O1PD1123714CZ89913:
+      title: ལི་ཐང་བཀའ་འགྱུར་དཀར་ཆག
+      type: section
+      img_loc_start: '15'
+      img_loc_end: '66'
+      pg_start: ''
+      pg_end: ''
+      vol: '106'
+      parts:
+        O1PD1123714CZ89914:
+          title: ལི་ཐང་བཀའ་འགྱུར་དཀར་ཆག
+          type: text
+          img_loc_start: '21'
+          img_loc_end: '65'
+          pg_start: '3'
+          pg_end: '47'
+          vol: '106'
+          parts: {}
+        O1PD1123714CZ89915:
+          title: ལི་ཐང་བཀའ་འགྱུར་པར་བྱང་སྨོན་ཚིག
+          type: text
+          img_loc_start: '66'
+          img_loc_end: '66'
+          pg_start: '48'
+          pg_end: '48'
+          vol: '106'
+          parts: {}
+    O1PD1123714CZ89916:
+      title: སྣར་ཐང་བཀའ་འགྱུར་དཀར་ཆག ༼བསྡུས་པ།༽
+      type: section
+      img_loc_start: '67'
+      img_loc_end: '328'
+      pg_start: ''
+      pg_end: ''
+      vol: '106'
+      parts:
+        O1PD1123714CZ89917:
+          title: སྣར་ཐང་བཀའ་འགྱུར་དཀར་ཆག ༼བསྡུས་པ།༽
+          type: text
+          img_loc_start: '69'
+          img_loc_end: '90'
+          pg_start: '49'
+          pg_end: '70'
+          vol: '106'
+          parts: {}
+        O1PD1123714CZ89918:
+          title: སྣར་ཐང་བཀའ་འགྱུར་དཀར་ཆག ༼རྒྱས་པ།༽
+          type: text
+          img_loc_start: '91'
+          img_loc_end: '328'
+          pg_start: '71'
+          pg_end: '306'
+          vol: '106'
+          parts: {}
+    O1PD1123714CZ89919:
+      title: ཅོ་ནེའི་བཀའ་འགྱུར་དཀར་ཆག
+      type: section
+      img_loc_start: '329'
+      img_loc_end: '424'
+      pg_start: ''
+      pg_end: ''
+      vol: '106'
+      parts:
+        O1PD1123714CZ89920:
+          title: ཅོ་ནེའི་བཀའ་འགྱུར་དཀར་ཆག
+          type: text
+          img_loc_start: '331'
+          img_loc_end: '423'
+          pg_start: '307'
+          pg_end: '399'
+          vol: '106'
+          parts: {}
+    O1PD1123714CZ89921:
+      title: སོག་ཁུ་རེའི་བཀའ་འགྱུར་དཀར་ཆག
+      type: section
+      img_loc_start: '425'
+      img_loc_end: '566'
+      pg_start: ''
+      pg_end: ''
+      vol: '106'
+      parts:
+        O1PD1123714CZ89922:
+          title: སོག་ཁུ་རེའི་བཀའ་འགྱུར་དཀར་ཆག
+          type: text
+          img_loc_start: '435'
+          img_loc_end: '561'
+          pg_start: '403'
+          pg_end: '529'
+          vol: '106'
+          parts: {}
+    O1PD1123714CZ89923:
+      title: ཞོལ་བཀའ་འགྱུར་དཀར་ཆག་བསྡུས་པ།
+      type: section
+      img_loc_start: '567'
+      img_loc_end: '652'
+      pg_start: ''
+      pg_end: ''
+      vol: '106'
+      parts:
+        O1PD1123714CZ89924:
+          title: ཞོལ་བཀའ་འགྱུར་དཀར་ཆག་བསྡུས་པ།
+          type: text
+          img_loc_start: '568'
+          img_loc_end: '651'
+          pg_start: '530'
+          pg_end: '613'
+          vol: '106'
+          parts: {}
