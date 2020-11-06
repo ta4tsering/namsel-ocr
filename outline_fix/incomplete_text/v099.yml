@@ -1,0 +1,81 @@
+O1PD1123714CZ89779:
+  title: དེབ་གོ་དགུ་པ། ༼དུས་འཁོར་འགྲེལ་བཤད། ཤྲཱི། སྨད་དུམ།༽
+  type: volume
+  img_loc_start: ''
+  img_loc_end: ''
+  pg_start: ''
+  pg_end: ''
+  vol: '99'
+  parts:
+    O1PD1123714CZ89780:
+      title: དེབ་གོ་དགུ་པའི་དཀར་ཆག
+      type: chapter
+      img_loc_start: '11'
+      img_loc_end: '13'
+      pg_start: '1'
+      pg_end: '3'
+      vol: '99'
+      parts: {}
+    O1PD1123714CZ89781:
+      title: དུས་འཁོར་འགྲེལ་བཤད་དྲི་མེད་འོད། ༼སྟོད།༽
+      type: text
+      img_loc_start: '21'
+      img_loc_end: '833'
+      pg_start: '3'
+      pg_end: '815'
+      vol: '99'
+      parts:
+        O1PD1123714CZ89782:
+          title: འཇིག་རྟེན་ཁམས་ཀྱི་ལེའུའི་རྒྱས་འགྲེལ།
+          type: chapter
+          img_loc_start: '21'
+          img_loc_end: '287'
+          pg_start: '3'
+          pg_end: '269'
+          vol: '99'
+          parts: {}
+        O1PD1123714CZ89783:
+          title: ནང་གི་ལེའུའི་རྒྱས་འགྲེལ།
+          type: chapter
+          img_loc_start: '287'
+          img_loc_end: '480'
+          pg_start: '269'
+          pg_end: '462'
+          vol: '99'
+          parts: {}
+        O1PD1123714CZ89784:
+          title: སྒྲུབ་ཐབས་ཀྱི་ལེའུའི་རྒྱས་འགྲེལ།
+          type: chapter
+          img_loc_start: '481'
+          img_loc_end: '616'
+          pg_start: '463'
+          pg_end: '598'
+          vol: '99'
+          parts: {}
+        O1PD1123714CZ89785:
+          title: དབང་གི་ལེའུའི་རྒྱས་འགྲེལ།
+          type: chapter
+          img_loc_start: '616'
+          img_loc_end: '833'
+          pg_start: '598'
+          pg_end: '815'
+          vol: '99'
+          parts: {}
+        O1PD1123714CZ89786:
+          title: དུས་འཁོར་འགྲེལ་བཤད་དྲི་མེད་འོད་ཀྱི་བསྡུར་མཆན།༼སྟོད།༽
+          type: chapter
+          img_loc_start: '834'
+          img_loc_end: '859'
+          pg_start: '816'
+          pg_end: '841'
+          vol: '99'
+          parts: {}
+        O1PD1123714CZ89787:
+          title: དུས་འཁོར་འགྲེལ་བཤད་དྲི་མེད་འོད་ཀྱི་བསྡུར་འབྲས་རེའུ་མིག ༼སྨད།༽
+          type: chapter
+          img_loc_start: '860'
+          img_loc_end: '860'
+          pg_start: '842'
+          pg_end: '842'
+          vol: '99'
+          parts: {}

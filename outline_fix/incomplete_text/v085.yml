@@ -1,0 +1,99 @@
+O1PD1123714CZ89110:
+  title: དེབ་གྱ་ལྔ་པ། ༼རྒྱུད་འབུམ། ཏ་༽
+  type: volume
+  img_loc_start: ''
+  img_loc_end: ''
+  pg_start: ''
+  pg_end: ''
+  vol: '85'
+  parts:
+    O1PD1123714CZ89111:
+      title: དེབ་གྱ་ལྔ་པའི་དཀར་ཆག
+      type: chapter
+      img_loc_start: '12'
+      img_loc_end: '20'
+      pg_start: '1'
+      pg_end: '9'
+      vol: '85'
+      parts: {}
+    O1PD1123714CZ89112:
+      title: ཐམས་ཅད་གསང་བའི་རྒྱུད།
+      type: text
+      img_loc_start: '28'
+      img_loc_end: '50'
+      pg_start: '3'
+      pg_end: '25'
+      vol: '85'
+      parts: {}
+    O1PD1123714CZ89113:
+      title: འཇིག་རྟེན་གསུམ་ལས་རྒྱལ་བའི་རྟོག་པའི་རྒྱལ་པོ་ཆེན་པོ།
+      type: text
+      img_loc_start: '51'
+      img_loc_end: '188'
+      pg_start: '26'
+      pg_end: '163'
+      vol: '85'
+      parts: {}
+    O1PD1123714CZ89114:
+      title: ངན་སོང་སྦྱོང་རྒྱུད།
+      type: text
+      img_loc_start: '189'
+      img_loc_end: '299'
+      pg_start: '164'
+      pg_end: '274'
+      vol: '85'
+      parts: {}
+    O1PD1123714CZ89115:
+      title: མངོན་སྤྱོད་ཀྱི་ལས།
+      type: text
+      img_loc_start: '300'
+      img_loc_end: '302'
+      pg_start: '275'
+      pg_end: '277'
+      vol: '85'
+      parts: {}
+    O1PD1123714CZ89116:
+      title: ངན་སོང་ཡོངས་སུ་སྦྱོང་བ་རྒྱལ་པོའི་བརྟག་པ་ཕྱོགས་གཅིག་པ།
+      type: text
+      img_loc_start: '303'
+      img_loc_end: '456'
+      pg_start: '278'
+      pg_end: '431'
+      vol: '85'
+      parts: {}
+    O1PD1123714CZ89117:
+      title: རབ་གནས་མདོར་བསྡུས་པའི་རྒྱུད།
+      type: text
+      img_loc_start: '457'
+      img_loc_end: '471'
+      pg_start: '432'
+      pg_end: '446'
+      vol: '85'
+      parts: {}
+    O1PD1123714CZ89118:
+      title: དཔལ་མཆོག་དང་པོ།
+      type: text
+      img_loc_start: '472'
+      img_loc_end: '538'
+      pg_start: '447'
+      pg_end: '513'
+      vol: '85'
+      parts: {}
+    O1PD1123714CZ89119:
+      title: རྟོག་པའི་དུམ་བུ།
+      type: text
+      img_loc_start: '539'
+      img_loc_end: '825'
+      pg_start: '514'
+      pg_end: '800'
+      vol: '85'
+      parts: {}
+    O1PD1123714CZ89120:
+      title: ཤེར་ཕྱིན་བརྒྱ་ལྔ་བཅུ་པ།
+      type: text
+      img_loc_start: '826'
+      img_loc_end: '846'
+      pg_start: '801'
+      pg_end: '821'
+      vol: '85'
+      parts: {}

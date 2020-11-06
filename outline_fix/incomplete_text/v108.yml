@@ -1,0 +1,90 @@
+O1PD1123714CZ89929:
+  title: དེབ་བརྒྱ་དང་བརྒྱད་པ། ༼དཀར་ཆག ༤༽
+  type: volume
+  img_loc_start: ''
+  img_loc_end: ''
+  pg_start: ''
+  pg_end: ''
+  vol: '108'
+  parts:
+    O1PD1123714CZ89930:
+      title: བཀའ་འགྱུར་དཔེ་བསྡུར་མའི་དཀར་ཆག་གི་གླེང་གཞི།
+      type: chapter
+      img_loc_start: '13'
+      img_loc_end: '18'
+      pg_start: '1'
+      pg_end: '6'
+      vol: '108'
+      parts: {}
+    O1PD1123714CZ89931:
+      title: དེབ་བརྒྱ་དང་བརྒྱད་པའི་དཀར་ཆག
+      type: chapter
+      img_loc_start: '19'
+      img_loc_end: '23'
+      pg_start: '1'
+      pg_end: '5'
+      vol: '108'
+      parts: {}
+    O1PD1123714CZ89932:
+      title: བཀའ་འགྱུར་དཔེ་བསྡུར་མའི་དཀར་ཆག
+      type: text
+      img_loc_start: '27'
+      img_loc_end: '798'
+      pg_start: '3'
+      pg_end: '774'
+      vol: '108'
+      parts:
+        O1PD1123714CZ89933:
+          title: སྐབས་དང་པོ། སྟོན་པ་བཅོམ་ལྡན་འདས་ཀྱི་རྣམ་པར་ཐར་པ་དང་བསྟན་པ་དམ་པའི་ཆོས་ཀྱི་རྣམ་གཞག་མདོ་ཙམ་བརྗོད་པ།
+          type: chapter
+          img_loc_start: '27'
+          img_loc_end: '127'
+          pg_start: '3'
+          pg_end: '103'
+          vol: '108'
+          parts: {}
+        O1PD1123714CZ89934:
+          title: སྐབས་གཉིས་པ། བཀའ་འགྱུར་རོ་ཅོག་པར་དུ་བསྒྲུབས་པ་དང་དེ་དག་ཇི་ལྟར་དཔེ་སྡུར་དང་དཔེ་སྒྲིག་ཞུས་པ་ལ་སོགས་པའི་སྐོར།
+          type: chapter
+          img_loc_start: '129'
+          img_loc_end: '174'
+          pg_start: '105'
+          pg_end: '150'
+          vol: '108'
+          parts: {}
+        O1PD1123714CZ89935:
+          title: སྐབས་གསུམ་པ། ཆོས་ཚན་གྱི་བཞུགས་བྱང་དང་ལེའུ་སོགས་དཔེ་བསྡུར་མའི་སྒྲིག་རིམ་ལྟར་མཐར་ཆགས་སུ་བཀོད་པ།
+          type: chapter
+          img_loc_start: '175'
+          img_loc_end: '700'
+          pg_start: '151'
+          pg_end: '676'
+          vol: '108'
+          parts: {}
+        O1PD1123714CZ89936:
+          title: སྐབས་བཞི་པ། འཚོལ་བདེ་བའི་ཆེད་དུ་ཆོས་ཚན་གྱི་བཞུགས་བྱང་རྣམས་དམིགས་བསལ་ཀ་མད་ཀྱི་གོ་རིམ་ལྟར་བསྒྲིགས་པ།
+          type: chapter
+          img_loc_start: '701'
+          img_loc_end: '780'
+          pg_start: '675'
+          pg_end: '755'
+          vol: '108'
+          parts: {}
+        O1PD1123714CZ89937:
+          title: སྐབས་ལྔ་པ། པར་དུ་བསྒྲུབས་པའི་དགོས་པ་དང་ཕན་ཡོན་སོགས་ཀྱིས་མཇུག་བསྡུ་བའི་སྐོར་བརྗོད་པ།
+          type: chapter
+          img_loc_start: '781'
+          img_loc_end: '797'
+          pg_start: '757'
+          pg_end: '773'
+          vol: '108'
+          parts: {}
+    O1PD1123714CZ89938:
+      title: བཀའ་འགྱུར་དཔེ་བསྡུར་མའི་དཀར་ཆག་གི་མཇུག་བྱང་།
+      type: chapter
+      img_loc_start: '799'
+      img_loc_end: '804'
+      pg_start: '775'
+      pg_end: '780'
+      vol: '108'
+      parts: {}

@@ -1,0 +1,117 @@
+O1PD1123714CZ89788:
+  title: དེབ་བརྒྱ་ཐམ་པ། ༼དུས་འཁོར་འགྲེལ་བཤད། ཤྲཱི། སྨད་དུམ།༽
+  type: volume
+  img_loc_start: ''
+  img_loc_end: ''
+  pg_start: ''
+  pg_end: ''
+  vol: '100'
+  parts:
+    O1PD1123714CZ89789:
+      title: དེབ་བརྒྱ་ཐམ་པའི་དཀར་ཆག
+      type: chapter
+      img_loc_start: '11'
+      img_loc_end: '12'
+      pg_start: '1'
+      pg_end: '2'
+      vol: '100'
+      parts: {}
+    O1PD1123714CZ89790:
+      title: དུས་འཁོར་འགྲེལ་བཤད་དྲི་མེད་འོད། ༼སྨད།༽
+      type: text
+      img_loc_start: '19'
+      img_loc_end: '282'
+      pg_start: '3'
+      pg_end: '266'
+      vol: '100'
+      parts:
+        O1PD1123714CZ89791:
+          title: ཡེ་ཤེས་ཀྱི་ལེའུའི་རྒྱས་འགྲེལ།
+          type: chapter
+          img_loc_start: '19'
+          img_loc_end: '280'
+          pg_start: '3'
+          pg_end: '264'
+          vol: '100'
+          parts:
+            O1PD1123714CZ89792:
+              title: དང་པོ།ཨ་རྣའ་འབྱོར་མའི་རྒྱུད་ལ་སོགས་པ་སྤྲོ་བའི་མདོར་བསྡུས་ཆེན་པོ།
+              type: chapter
+              img_loc_start: '19'
+              img_loc_end: '86'
+              pg_start: '3'
+              pg_end: '70'
+              vol: '100'
+              parts: {}
+            O1PD1123714CZ89793:
+              title: གཉིས་པ། སྐུ་བཞི་ལ་སོགས་པའི་རྣམ་པར་དག་པ་ངེས་པའི་མདོར་བསྡུས་ཆེན་པོ།
+              type: chapter
+              img_loc_start: '86'
+              img_loc_end: '105'
+              pg_start: '70'
+              pg_end: '89'
+              vol: '100'
+              parts: {}
+            O1PD1123714CZ89794:
+              title: གསུམ་པ། མཆོག་ཏུ་མི་འགྱུར་བའི་ཡེ་ཤེས་གྲུབ་པ་ཞེས་བྱ་བའི་མདོར་བསྡུས་ཆེན་པོ།
+              type: chapter
+              img_loc_start: '105'
+              img_loc_end: '210'
+              pg_start: '89'
+              pg_end: '194'
+              vol: '100'
+              parts: {}
+            O1PD1123714CZ89795:
+              title: བཞི་པ། ཐབས་སྣ་ཚོགས་ཀྱིས་འདུལ་བའི་མདོར་བསྡུས་ཆེན་པོ།
+              type: chapter
+              img_loc_start: '210'
+              img_loc_end: '280'
+              pg_start: '194'
+              pg_end: '264'
+              vol: '100'
+              parts: {}
+        O1PD1123714CZ89796:
+          title: དུས་འཁོར་འགྲེལ་བཤད་དྲི་མེད་འོད་ཀྱི་བསྡུར་མཆན།༼སྨད།༽
+          type: chapter
+          img_loc_start: '283'
+          img_loc_end: '290'
+          pg_start: '267'
+          pg_end: '274'
+          vol: '100'
+          parts: {}
+        O1PD1123714CZ89797:
+          title: དུས་འཁོར་འགྲེལ་བཤད་དྲི་མེད་འོད་ཀྱི་བསྡུར་འབྲས་རེའུ་མིག ༼སྨད།༽
+          type: chapter
+          img_loc_start: '290'
+          img_loc_end: '290'
+          pg_start: '274'
+          pg_end: '274'
+          vol: '100'
+          parts: {}
+    O1PD1123714CZ89798:
+      title: སངས་རྒྱས་ཀྱི་གཙུག་ཏོར་དཔའ་བར་འགྲོ་བ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།
+      type: text
+      img_loc_start: '291'
+      img_loc_end: '600'
+      pg_start: '275'
+      pg_end: '584'
+      vol: '100'
+      parts:
+        O1PD1123714CZ89799:
+          title: སངས་རྒྱས་ཀྱི་གཙུག་ཏོར་དཔའ་བར་འགྲོ་བ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོའི་བསྡུར་མཆན།
+          type: chapter
+          img_loc_start: '601'
+          img_loc_end: '610'
+          pg_start: '585'
+          pg_end: '594'
+          vol: '100'
+          parts: {}
+        O1PD1123714CZ89800:
+          title: སངས་རྒྱས་ཀྱི་གཙུག་ཏོར་དཔའ་བར་འགྲོ་བ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོའི་བསྡུར་འབྲས་རེའུ་མིག
+          type: chapter
+          img_loc_start: '611'
+          img_loc_end: '611'
+          pg_start: '595'
+          pg_end: '595'
+          vol: '100'
+          parts: {}
