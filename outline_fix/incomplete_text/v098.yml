@@ -609,25 +609,7 @@ O1PD1123714CZ89610:
       pg_start: '583'
       pg_end: '585'
       vol: '98'
-      parts:
-        O1PD1123714CZ89678:
-          title: ཡོན་ཡོངས་སུ་སྦྱོང་བ།
-          type: text
-          img_loc_start: '627'
-          img_loc_end: '628'
-          pg_start: '583'
-          pg_end: '584'
-          vol: '98'
-          parts: {}
-        O1PD1123714CZ89679:
-          title: ཡོན་ཡོངས་སུ་སྦྱོང་བའི་གཟུངས།
-          type: text
-          img_loc_start: '628'
-          img_loc_end: '629'
-          pg_start: '584'
-          pg_end: '585'
-          vol: '98'
-          parts: {}
+      parts: {}
     O1PD1123714CZ89680:
       title: ངན་སོང་ཐམས་ཅད་ཡོངས་སུ་སྦྱོང་བའི་གཟུངས།
       type: text
@@ -1140,61 +1122,7 @@ O1PD1123714CZ89610:
       pg_start: '821'
       pg_end: '824'
       vol: '98'
-      parts:
-        O1PD1123714CZ89737:
-          title: མཆོད་པའི་སྤྲིན་གྱི་གཟུངས།
-          type: text
-          img_loc_start: '865'
-          img_loc_end: '866'
-          pg_start: '821'
-          pg_end: '822'
-          vol: '98'
-          parts: {}
-        O1PD1123714CZ89738:
-          title: ཕྱག་བྱ་བའི་གཟུངས།
-          type: text
-          img_loc_start: '866'
-          img_loc_end: '866'
-          pg_start: '822'
-          pg_end: '822'
-          vol: '98'
-          parts: {}
-        O1PD1123714CZ89739:
-          title: བསྟོད་པའི་གཟུངས།
-          type: text
-          img_loc_start: '866'
-          img_loc_end: '866'
-          pg_start: '822'
-          pg_end: '822'
-          vol: '98'
-          parts: {}
-        O1PD1123714CZ89740:
-          title: མཆོད་པ་བྱིན་གྱིས་བརླབ་པའི་གཟུངས།
-          type: text
-          img_loc_start: '866'
-          img_loc_end: '866'
-          pg_start: '822'
-          pg_end: '822'
-          vol: '98'
-          parts: {}
-        O1PD1123714CZ89741:
-          title: མཆོད་པའི་སྤྲིན་འབྱུང་བའི་གཟུངས།
-          type: text
-          img_loc_start: '866'
-          img_loc_end: '867'
-          pg_start: '822'
-          pg_end: '823'
-          vol: '98'
-          parts: {}
-        O1PD1123714CZ89742:
-          title: ཕྱག་བྱ་བའི་གཟུངས།
-          type: text
-          img_loc_start: '867'
-          img_loc_end: '867'
-          pg_start: '823'
-          pg_end: '823'
-          vol: '98'
-          parts: {}
+      parts: {}
     O1PD1123714CZ89743:
       title: རིན་པོ་ཆེ་བདར་བའི་གཟུངས།
       type: text
