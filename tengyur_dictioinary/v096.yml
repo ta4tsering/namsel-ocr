@@ -1,0 +1,28 @@
+T1:
+  start: 50
+  end: 50
+  vol: 96
+T2:
+  start: 255
+  end: 271
+  vol: 96
+T3:
+  start: 451
+  end: 451
+  vol: 96
+T4:
+  start: 483
+  end: 484
+  vol: 96
+T5:
+  start: 622
+  end: 633
+  vol: 96
+T6:
+  start: 849
+  end: 851
+  vol: 96
+T7:
+  start: 903
+  end: 919
+  vol: 96
