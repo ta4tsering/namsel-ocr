@@ -1,0 +1,32 @@
+O1PD1123714CZ89108:
+  title: དེ་ཁོ་ན་ཉིད་བསྡུས་པ་ཐེག་པ་ཆེན་པོའི་མདོ།
+  img_loc_start: '23'
+  img_loc_end: '365'
+  pg_start: '3'
+  pg_end: '345'
+  vol: '84'
+  durchen:
+    title: དེ་ཁོ་ན་ཉིད་བསྡུས་པ་ཐེག་པ་ཆེན་པོའི་མདོ།བསྡུར་མཆན
+    type: chapter
+    img_loc_start: '365'
+    img_loc_end: '452'
+    pg_start: '345'
+    pg_end: '432'
+    vol: '84'
+    parts: {}
+O1PD1123714CZ89109:
+  title: གསང་བ་རྣལ་འབྱོར་ཆེན་པོའི་རྒྱུད་རྡོ་རྗེ་རྩེ་མོ།
+  img_loc_start: '453'
+  img_loc_end: '760'
+  pg_start: '433'
+  pg_end: '740'
+  vol: '84'
+  durchen:
+    title: གསང་བ་རྣལ་འབྱོར་ཆེན་པོའི་རྒྱུད་རྡོ་རྗེ་རྩེ་མོ།བསྡུར་མཆན
+    type: chapter
+    img_loc_start: '760'
+    img_loc_end: '816'
+    pg_start: '740'
+    pg_end: '796'
+    vol: '84'
+    parts: {}

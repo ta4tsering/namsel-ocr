@@ -1,0 +1,96 @@
+O1PD1123714CZ89123:
+  title: རྡོ་རྗེ་སྙིང་པོ་རྒྱན་གྱི་རྒྱུད།
+  img_loc_start: '23'
+  img_loc_end: '211'
+  pg_start: '3'
+  pg_end: '191'
+  vol: '86'
+  durchen:
+    title: རྡོ་རྗེ་སྙིང་པོ་རྒྱན་གྱི་རྒྱུད།བསྡུར་མཆན
+    type: chapter
+    img_loc_start: '211'
+    img_loc_end: '252'
+    pg_start: '191'
+    pg_end: '232'
+    vol: '86'
+    parts: {}
+O1PD1123714CZ89124:
+  title: ཤེར་ཕྱིན་སྒོ་ཉི་ཤུ་རྩ་ལྔ་པ།
+  img_loc_start: '253'
+  img_loc_end: '256'
+  pg_start: '233'
+  pg_end: '236'
+  vol: '86'
+  durchen:
+    title: ཤེར་ཕྱིན་སྒོ་ཉི་ཤུ་རྩ་ལྔ་པ།བསྡུར་མཆན
+    type: chapter
+    img_loc_start: '256'
+    img_loc_end: '257'
+    pg_start: '236'
+    pg_end: '237'
+    vol: '86'
+    parts: {}
+O1PD1123714CZ89125:
+  title: གསང་བ་རྒྱན་བཀོད་ཀྱི་རྒྱུད།
+  img_loc_start: '258'
+  img_loc_end: '344'
+  pg_start: '238'
+  pg_end: '324'
+  vol: '86'
+  durchen:
+    title: གསང་བ་རྒྱན་བཀོད་ཀྱི་རྒྱུད།བསྡུར་མཆན
+    type: chapter
+    img_loc_start: '344'
+    img_loc_end: '361'
+    pg_start: '324'
+    pg_end: '341'
+    vol: '86'
+    parts: {}
+O1PD1123714CZ89126:
+  title: གསང་བ་ནོར་བུ་ཐིག་ལེའི་མདོ།
+  img_loc_start: '362'
+  img_loc_end: '441'
+  pg_start: '342'
+  pg_end: '421'
+  vol: '86'
+  durchen:
+    title: གསང་བ་ནོར་བུ་ཐིག་ལེའི་མདོ།བསྡུར་མཆན
+    type: chapter
+    img_loc_start: '441'
+    img_loc_end: '455'
+    pg_start: '421'
+    pg_end: '435'
+    vol: '86'
+    parts: {}
+O1PD1123714CZ89127:
+  title: མདོ་སྡེའི་ཆོས་ཀྱི་རྣམ་གྲངས།
+  img_loc_start: '456'
+  img_loc_end: '714'
+  pg_start: '436'
+  pg_end: '694'
+  vol: '86'
+  durchen:
+    title: མདོ་སྡེའི་ཆོས་ཀྱི་རྣམ་གྲངས།བསྡུར་མཆན
+    type: chapter
+    img_loc_start: '714'
+    img_loc_end: '776'
+    pg_start: '694'
+    pg_end: '756'
+    vol: '86'
+    parts: {}
+O1PD1123714CZ89128:
+  title: འདུལ་བར་གསུངས་པའི་རྟོག་པ།
+  img_loc_start: '777'
+  img_loc_end: '922'
+  pg_start: '757'
+  pg_end: '902'
+  vol: '86'
+  durchen:
+    title: འདུལ་བར་གསུངས་པའི་རྟོག་པ།བསྡུར་མཆན
+    type: chapter
+    img_loc_start: '922'
+    img_loc_end: '955'
+    pg_start: '902'
+    pg_end: '935'
+    vol: '86'
+    parts: {}

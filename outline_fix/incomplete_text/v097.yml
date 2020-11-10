@@ -568,7 +568,7 @@ O1PD1123714CZ89508:
     O1PD1123714CZ89571:
       title: མེ་ཁ་ལའི་གཟུངས།
       type: text
-      img_loc_start: 727-
+      img_loc_start: '727'
       img_loc_end: '743'
       pg_start: '691'
       pg_end: '707'
