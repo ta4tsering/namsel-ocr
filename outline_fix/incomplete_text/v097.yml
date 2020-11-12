@@ -515,7 +515,7 @@ O1PD1123714CZ89508:
       title: དོན་ཡོད་ཞགས་པའི་སྙིང་པོ་ཐེག་པ་ཆེན་པོའི་མདོ།
       type: text
       img_loc_start: '671'
-      img_loc_end: '694'
+      img_loc_end: '690'
       pg_start: '635'
       pg_end: '654'
       vol: '97'
@@ -568,7 +568,7 @@ O1PD1123714CZ89508:
     O1PD1123714CZ89571:
       title: མེ་ཁ་ལའི་གཟུངས།
       type: text
-      img_loc_start: 727-
+      img_loc_start: '727'
       img_loc_end: '743'
       pg_start: '691'
       pg_end: '707'
@@ -587,7 +587,7 @@ O1PD1123714CZ89508:
       title: སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ཡུམ་གི་གཟུངས།
       type: text
       img_loc_start: '748'
-      img_loc_end: '752'
+      img_loc_end: '753'
       pg_start: '712'
       pg_end: '717'
       vol: '97'
@@ -595,7 +595,7 @@ O1PD1123714CZ89508:
     O1PD1123714CZ89574:
       title: སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་གཟུངས།
       type: text
-      img_loc_start: '753'
+      img_loc_start: '754'
       img_loc_end: '756'
       pg_start: '718'
       pg_end: '720'

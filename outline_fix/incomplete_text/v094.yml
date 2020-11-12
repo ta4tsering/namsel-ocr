@@ -204,25 +204,7 @@ O1PD1123714CZ89382:
       pg_start: '667'
       pg_end: '751'
       vol: '94'
-      parts:
-        O1PD1123714CZ89405:
-          title: ས་འོག་གི་གསང་བ་ཆེན་པོ།
-          type: chapter
-          img_loc_start: '691'
-          img_loc_end: '761'
-          pg_start: ''
-          pg_end: ''
-          vol: '94'
-          parts: {}
-        O1PD1123714CZ89406:
-          title: ས་འོག་གི་གསང་བ་ཆེན་པོ།
-          type: chapter
-          img_loc_start: '761'
-          img_loc_end: '763'
-          pg_start: ''
-          pg_end: ''
-          vol: '94'
-          parts: {}
+      parts: {}
     O1PD1123714CZ89407:
       title: སྒྲོལ་མའི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ།
       type: text

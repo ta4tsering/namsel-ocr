@@ -110,7 +110,7 @@ O1PD1123714CZ89249:
       title: སྒོ་བཟང་པོའི་གཟུངས།
       type: text
       img_loc_start: '196'
-      img_loc_end: '215'
+      img_loc_end: '213'
       pg_start: '160'
       pg_end: '177'
       vol: '91'
@@ -155,7 +155,7 @@ O1PD1123714CZ89249:
       title: མིག་རྣམ་པར་སྦྱོང་བའི་རིག་སྔགས།
       type: text
       img_loc_start: '242'
-      img_loc_end: '248'
+      img_loc_end: '247'
       pg_start: '206'
       pg_end: '211'
       vol: '91'
@@ -163,7 +163,7 @@ O1PD1123714CZ89249:
     O1PD1123714CZ89267:
       title: མིག་ནད་རབ་ཏུ་ཞི་བར་བྱེད་པའི་མདོ།
       type: text
-      img_loc_start: '249'
+      img_loc_start: '248'
       img_loc_end: '250'
       pg_start: '212'
       pg_end: '214'
@@ -451,8 +451,8 @@ O1PD1123714CZ89249:
     O1PD1123714CZ89299:
       title: རྒྱལ་བའི་བླ་མའི་གཟུངས།
       type: text
-      img_loc_start: '275'
-      img_loc_end: '543'
+      img_loc_start: '543'
+      img_loc_end: '544'
       pg_start: '507'
       pg_end: '508'
       vol: '91'
@@ -480,8 +480,8 @@ O1PD1123714CZ89249:
       type: text
       img_loc_start: '572'
       img_loc_end: '582'
-      pg_start: ''
-      pg_end: ''
+      pg_start: '536'
+      pg_end: '546'
       vol: '91'
       parts: {}
     O1PD1123714CZ89303:
